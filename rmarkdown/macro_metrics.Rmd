@@ -36,7 +36,7 @@ library(mmir)
 
 Find project root directory. This will make it easier to specify file paths later in this document.
 ```{r}
-root.dir <- rprojroot::find_root("saint_regis.Rproj")
+root.dir <- rprojroot::find_root("St_Regis.Rproj")
 ```
 
 
